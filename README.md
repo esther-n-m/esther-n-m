@@ -1,6 +1,6 @@
 # Hi there, I'm [Esther]! 👋
 
-![Banner Image]([./Downloads/githubbanner.jpg])
+
 
 ## About Me 🚀
 
