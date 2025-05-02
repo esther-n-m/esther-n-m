@@ -1,6 +1,6 @@
 # Hi there, I'm [Esther]! 👋
 
-![Banner Image]([https://pin.it/J6Ow0LMp2])
+![Banner Image]([https://github.com/account)])
 
 ## About Me 🚀
 
