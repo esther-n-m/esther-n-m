@@ -1,6 +1,7 @@
 # Hi there, I'm [Esther]! 👋
 
-
+![Banner Image][cute imvu avatar black girl](https://github.com/user-attachments/assets/e0a60c01-6991-445a-8677-135666485222)
+image_url_here)
 
 ## About Me 🚀
 
@@ -18,14 +19,23 @@ I'm a passionate **[Junior Developer ]**. I love tackling complex problems, lear
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## Featured Projects 💻
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management
 
 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Twitter](https://x.com/Esie13290722)
 - **[LinkedIn]**(https://www.linkedin.com/in/esther-mutembei44/)
+
+- Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 - **[Twitter]**(https://x.com/Esie13290722)
 
 
