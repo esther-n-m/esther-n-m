@@ -1,7 +1,7 @@
 # Hi there, I'm [Esther]! 👋
 
 ![Banner Image][cute imvu avatar black girl](https://github.com/user-attachments/assets/e0a60c01-6991-445a-8677-135666485222)
-image_url_here)
+
 
 ## About Me 🚀
 
