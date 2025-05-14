@@ -1,6 +1,6 @@
 # Hi there, I'm [Esther]! 👋
 
-![Banner Image]!(https://github.com/user-attachments/assets/8fd5a213-c3b3-41df-b35d-bab7dfee362d)
+[Banner Image](https://github.com/user-attachments/assets/8fd5a213-c3b3-41df-b35d-bab7dfee362d)
 
 
 
@@ -34,10 +34,10 @@ I'm a passionate **[Junior Developer ]**. I love tackling complex problems, lear
 ## Get in Touch 📬
 
 - **[Twitter](https://x.com/Esie13290722)
-- **[LinkedIn]**(https://www.linkedin.com/in/esther-mutembei44/)
+- **[LinkedIn](https://www.linkedin.com/in/esther-mutembei44/)
 
 - Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-- **[Twitter]**(https://x.com/Esie13290722)
+
 
 
 
