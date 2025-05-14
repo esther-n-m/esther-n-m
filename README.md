@@ -1,6 +1,6 @@
 # Hi there, I'm [Esther]! 👋
 
-[Banner Image](https://github.com/user-attachments/assets/8fd5a213-c3b3-41df-b35d-bab7dfee362d)
+![Banner Image](https://github.com/user-attachments/assets/8fd5a213-c3b3-41df-b35d-bab7dfee362d)
 
 
 
